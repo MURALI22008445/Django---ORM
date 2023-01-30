@@ -53,3 +53,4 @@ class StudentdetailAdmin(admin.ModelAdmin):
 ![img](outputss.png)
 
 ## RESULT
+Thus the experiment was executed successfully.
